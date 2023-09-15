@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -----------------
-📫 How to reach me: contact@dataoceanai.com
-
+ How to reach US: 
+ 📫contact@dataoceanai.com
 📱 Call me : +86-18210599182
 
 
