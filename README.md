@@ -1,7 +1,7 @@
 ### Hi there 👋
 DATAOCEAN AI is a world-leading provider AI training data and services, promoting innovation in voice (speech recognition and synthesis), computer vision, natural language processing and related fields for AI and machine learning applications worldwide.
 
-We are one of the LLAMA2 data provider, With professional, reliable, safe and compliant data and services, we have over 1,300 off-the-shelf datasets available for immediate licensing and delivered thousands of customized projects, earning the trust of hundreds of leading international technology and enterprise clients globally. And with high quality resources in more than 70 countries, support for all languages and dialects, dedicated R&D, annotation and data management platform, and experienced project management, we have a proven track record of landing AI projects around the world.
+We empower more than 900 AI enterprises and academic institutes on R&D with constantly offering high quality OTS datasets and customized services, including Generative AI, Ethical AI and Machine Learning, that enable clients’ AI models to stay ahead in the market.
 <!--
 **MKT-Dataoceanai/MKT-Dataoceanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
