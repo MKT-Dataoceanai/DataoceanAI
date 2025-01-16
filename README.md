@@ -1,7 +1,7 @@
 ### Hi there 👋
 DATAOCEAN AI is a world-leading provider AI training data and services, promoting innovation in voice (speech recognition and synthesis), computer vision, natural language processing and related fields for AI and machine learning applications worldwide.
 
-We empower more than 900 AI enterprises and academic institutes on R&D with constantly offering high quality OTS datasets and customized services, including Generative AI, Ethical AI and Machine Learning, that enable clients’ AI models to stay ahead in the market.
+We empower more than 1000 AI enterprises and academic institutes on R&D with constantly offering over 1600 high quality OTS datasets and customized services, including Generative AI, Ethical AI and Machine Learning, that enable clients’ AI models to stay ahead in the market.
 <!--
 **MKT-Dataoceanai/MKT-Dataoceanai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
